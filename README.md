@@ -31,3 +31,4 @@ cd frontend/
 npm install
 npm run dev
 ```
+![Screenshot](home.png)
