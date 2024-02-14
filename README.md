@@ -31,4 +31,4 @@ cd frontend/
 npm install
 npm run dev
 ```
-<img src="https://github.com/vinodnextcoder/Full-Stack-NestJS-NextJS-signup-signin/Screenshot/home.png" alt="home page" title="Home Page">
+![Screenshot](Screenshot/home.png)
