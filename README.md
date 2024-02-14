@@ -1,4 +1,11 @@
-# Fullstack Typescript Nest JS and Next JS ⚡️
+#  ⚡️ Fullstack Typescript Nest JS and Next JS ⚡️
+
+## Features
+
+1. Register
+2. Login
+3. Unit test using jest
+
 
 ## Backend
 - Nest JS
